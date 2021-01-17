@@ -1,4 +1,4 @@
-# Les fromages de France
+# Les fromages en France
 
 ## Contexte et liste des données
 Dans le cadre du cours de Datavisualition, il nous a été demandé de travailler sur un jeu de données provenant du site Opendatasoft sur les différents fromages en France.
