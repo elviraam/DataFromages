@@ -2,7 +2,7 @@
 
 ## Contexte et liste des données
 Dans le cadre du cours de Datavisualition, il nous a été demandé de travailler sur un jeu de données provenant du site Opendatasoft sur les différents fromages en France.
-<center><iframe src="https://data.opendatasoft.com/explore/embed/dataset/fromagescsv-fromagescsv@public/table/?disjunctive.fromage&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe></center>
+<center><iframe src="https://data.opendatasoft.com/explore/embed/dataset/fromagescsv-fromagescsv@public/table/?disjunctive.fromage&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe> </center>
 
 
 ## Les plus gros producteurs de fromages
